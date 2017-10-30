@@ -10,9 +10,6 @@ junit.xml
 # production
 /build
 
-# compiled css files
-src/**/*.css
-
 # misc
 .DS_Store
 npm-debug.log*
